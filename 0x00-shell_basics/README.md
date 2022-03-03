@@ -1,1 +1,1 @@
-Command to display current working directory
+shell scripting basic
